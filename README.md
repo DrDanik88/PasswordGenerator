@@ -3,7 +3,7 @@ Description
 This is a quick took to generate a password using a randomizer. Now, I do not recommend using this in production as it is just randomizing numbers in a strings. I could make another one using the crypto function from the window. 
 
 
-![alt text](https://github.com/DrDanik88/PasswordGenerator/blob/main/Develop/assets/images/Capture.JPG)
+![alt text](https://github.com/DrDanik88/PasswordGenerator/blob/main/assets/images/Capture.JPG)
 
 
 What was your motivation?
